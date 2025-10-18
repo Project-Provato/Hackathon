@@ -1,6 +1,6 @@
 # PROVATO Data 
 # Υποβολή των υλοποιήσεων και παρουσίασης
-[<kbd> <br> Υποβολή <br> </kbd>](https://forms.gle/Ty8421vhv1vFWYRp6)
+[<kbd> <br> Υποβολή υλοποίησης <br> </kbd>](https://forms.gle/Ty8421vhv1vFWYRp6)
 
 ## dataset
 To dataset περιλαμβάνει οντότητες (φάρμες, ζώα, συσκευές) και χρονοσειρές (μετρήσεις καιρού)
