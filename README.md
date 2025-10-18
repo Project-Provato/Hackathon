@@ -28,3 +28,6 @@ To dataset περιλαμβάνει οντότητες (φάρμες, ζώα, σ
 ## Συμβάσεις & Μονάδες
 - **Χρόνος:** `created`/`station_timedata` είναι τοπικά timestamps (π.χ. `YYYY-MM-DD hh:mm:ss`)  
 - **Μονάδες:** θερμοκρασία °C, υγρασία %, πίεση hPa, υετός mm, άνεμος (ταχύτητα/διεύθυνση), επιταχύνσεις σε raw units (αισθητήρας).
+
+## Αρχικό Colab
+[Google Colab](https://colab.research.google.com/drive/1PyR5J0RFNKlmaX3egSx1W-8k0VS315vC?usp=sharing)
