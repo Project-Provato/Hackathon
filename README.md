@@ -29,6 +29,6 @@ To dataset περιλαμβάνει οντότητες (φάρμες, ζώα, σ
 - **Χρόνος:** `created`/`station_timedata` είναι τοπικά timestamps (π.χ. `YYYY-MM-DD hh:mm:ss`)  
 - **Μονάδες:** θερμοκρασία °C, υγρασία %, πίεση hPa, υετός mm, άνεμος (ταχύτητα/διεύθυνση), επιταχύνσεις σε raw bits (αισθητήρας).
 Για τη μετατροπή των τιμών της επιτάχυνσης σε μονάδες $g$ χρησιμοποιείστε την παρακάτω εξίσωση:
-$$ -2 + \frac{acc + 32768}{65535)}\times 4$$
+$ -2 + \frac{acc + 32768}{65535)}\times 4$
 ## Αρχικό Colab
 [Google Colab](https://colab.research.google.com/drive/1PyR5J0RFNKlmaX3egSx1W-8k0VS315vC?usp=sharing)
